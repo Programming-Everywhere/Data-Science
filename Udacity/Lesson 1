@@ -1,0 +1,11 @@
+## 1. Numpy (manipulate data)
+```html
+num = [1,2,3,4,5]
+Average: numpy.mean(num)
+Meadian: numpy.median(num)
+Standard divation: numpy.std(num)
+```
+## 2. Pandas(store data)
+```html
+
+```
